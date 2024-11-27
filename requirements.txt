@@ -1,0 +1,6 @@
+streamlit
+google-generativeai
+requests
+cfbd
+from cfbd.rest import ApiException
+google.generativeai
